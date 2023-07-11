@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @missD20, but you can just call me DiDi :)
-- 👀 I’m interested in the data science field and-
+- 👀 I’m interested in IOS and Android Development along with Algorithms and-
 - 🌱 I’m currently learning more about it.
-- 💞️ So I’m looking to collaborate on various data science projects *~* and-
+- 💞️ So I’m looking to collaborate on various projects *~* and-
 - 📫 You can reach me by my professional email 2kxxblogging@gmail.com.
 
 <!---
