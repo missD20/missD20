@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @missD20, but you can just call me DiDi
-- 👀 I’m interested in IOS and Android Development along with Algorithms
-- 🌱 I’m currently learning more about it.
-- 💞️ So I’m looking to collaborate on various projects
-- 📫 You can reach me by my professional email 2kxxblogging@gmail.com.
+- 👋 Current Computer Science Junior
+- 👀 Interested in Cloud Security
+- 🌱 Working on AWS certifications
+- 💞️ Eager to collaborate on various projects
+- 📫 Reachable by 2kxxblogging@gmail.com.
 
 <!---
 missD20/missD20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
